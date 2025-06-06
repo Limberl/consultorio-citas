@@ -14,7 +14,7 @@ Este proyecto es una aplicación de consola desarrollada en Java con Maven que p
 ### 📥 Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/consultorio-citas.git
+git clone https://github.com/Limberl/consultorio-citas.git
 cd consultorio-citas
 ```
 
